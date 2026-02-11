@@ -33,10 +33,20 @@ Ensuring equitable access to healthcare, education, and green space is essential
 
 ##  Key Findings
 
+<p align="center">
+  <img src="images/Graph_Comparison.png" width="500"><br>
+  <em>Figure: Comparison of accessible area between the Buffer and Network methods.</em>
+</p>
+
 - **Low-accessibility areas** dominate much of the city, especially when real travel paths are considered.
 - **Comprehensive accessibility (to all 3 types of facilities)** is limited—only **1.85 million m²** (Network Method), compared to **4.65 million m²** (Buffer Method).
 - The **Network Method** offers a more realistic and conservative view of accessibility than the Buffer-based method.
 
+<p align="center">
+  <img src="images/Buffer_method_map.jpg" width="700"><br>
+  <img src="images/Network_method_map.jpg" width="700"><br>  
+  <em>Figure: Spatial distribution of accessibility results using the Buffer Method (top) and the Network Method (bottom).</em>
+</p>
 ---
 
 ##  Limitations
