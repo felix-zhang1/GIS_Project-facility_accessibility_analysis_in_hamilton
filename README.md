@@ -90,11 +90,5 @@ This work is supported by several academic studies, including:
 
 ---
 
-##  Author
-
-Gongfan Zhang  
-University of Waikato, 2025
-
----
 
 
